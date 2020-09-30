@@ -59,14 +59,14 @@
   text-align: center;
 }
 
-#parent {
+.parent {
   display: table;
   width: 100%;
   height: 100%;
   text-align: center;
 }
 
-#child {
+.child {
   display: table-cell;
   vertical-align: middle;
 }
